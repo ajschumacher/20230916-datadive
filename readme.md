@@ -2,10 +2,11 @@
 
 I made `20230916-six_month_retained.csv` with `20230916-002-new_6mo_retention_flag.ipynb`... I tried at first to do something fancier, but it's messy... This one just uses '6-Month Post-Placement Status Check' surveys, which unfortunately limits us to 1349 rows where we have an outcome.
 
-presentation deck: https://docs.google.com/presentation/d/1EYnXAYgZeDYQA_coiVHKP0bcWN4a8YPfkqvqkgCeOls/edit#slide=id.g27f6d49f2e6_0_146
-
- * https://github.com/DataKind-DC/EducationForEmployment
- * https://drive.google.com/drive/folders/12gUAqkAADp3sxIPb7wLJnL44yt_XWUnX
+ * final presentation deck: https://docs.google.com/presentation/d/1EYnXAYgZeDYQA_coiVHKP0bcWN4a8YPfkqvqkgCeOls/edit#slide=id.g27f6d49f2e6_0_146
+ * event deck: https://docs.google.com/presentation/d/1ji9-3RjkWp0Ii_ImnuaGht_Is8hnQiGzB-1VeMz3tQw/edit
+ * EFE prior git repo: https://github.com/DataKind-DC/EducationForEmployment
+ * EFE google drive: https://drive.google.com/drive/folders/12gUAqkAADp3sxIPb7wLJnL44yt_XWUnX
+ * EFE results drop doc: https://docs.google.com/document/d/1fNwUS02PC6-MBxCJgBIsqgw-5dmqZ50IiKuw9Ynm4hg/edit
 
 
 ---
