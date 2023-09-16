@@ -1,5 +1,15 @@
 # 2023-09-16 DataKind DataDive
 
+treat ContactsProcessed.csv as the original
+key determinants of job retention for 6 months or more
+
+filter used:
+<= apr 21
+because data was pulled Oct 21 2022...
+
+
+---
+
  * RiseBoro https://riseboro.org/
      * meal delivery optimization - manage/optimize routes
      * data exploration - discovery/augmentation on seniors
@@ -28,6 +38,6 @@
 pyenv install 3.11.5
 pyenv virtualenv 3.11.5 datadive
 pyenve local datadive
-pip install matplotlib pandas scikit-learn numpy scipy jupyter
+pip install matplotlib pandas scikit-learn numpy scipy jupyter statsmodels
 pip freeze > requirements.txt
 ```
