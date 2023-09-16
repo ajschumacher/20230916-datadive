@@ -4,6 +4,9 @@ I made `20230916-six_month_retained.csv` with `20230916-002-new_6mo_retention_fl
 
 presentation deck: https://docs.google.com/presentation/d/1EYnXAYgZeDYQA_coiVHKP0bcWN4a8YPfkqvqkgCeOls/edit#slide=id.g27f6d49f2e6_0_146
 
+ * https://github.com/DataKind-DC/EducationForEmployment
+ * https://drive.google.com/drive/folders/12gUAqkAADp3sxIPb7wLJnL44yt_XWUnX
+
 
 ---
 
