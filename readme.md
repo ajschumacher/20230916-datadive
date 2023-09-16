@@ -2,6 +2,8 @@
 
 I made `20230916-six_month_retained.csv` with `20230916-002-new_6mo_retention_flag.ipynb`... I tried at first to do something fancier, but it's messy... This one just uses '6-Month Post-Placement Status Check' surveys, which unfortunately limits us to 1349 rows where we have an outcome.
 
+presentation deck: https://docs.google.com/presentation/d/1EYnXAYgZeDYQA_coiVHKP0bcWN4a8YPfkqvqkgCeOls/edit#slide=id.g27f6d49f2e6_0_146
+
 
 ---
 
