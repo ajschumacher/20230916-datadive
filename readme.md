@@ -1,11 +1,19 @@
 # 2023-09-16 DataKind DataDive
 
+I made `20230916-six_month_retained.csv` with `20230916-002-new_6mo_retention_flag.ipynb`... I tried at first to do something fancier, but it's messy... This one just uses '6-Month Post-Placement Status Check' surveys, which unfortunately limits us to 1349 rows where we have an outcome.
+
+
+---
+
 treat ContactsProcessed.csv as the original
 key determinants of job retention for 6 months or more
 
 filter used:
 <= apr 21
 because data was pulled Oct 21 2022...
+
+
+Employment_Start_Date, Employment_End_Date don't seem great...
 
 
 ---
