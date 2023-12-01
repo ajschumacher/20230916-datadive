@@ -51,7 +51,7 @@ Employment_Start_Date, Employment_End_Date don't seem great...
 ```bash
 pyenv install 3.11.5
 pyenv virtualenv 3.11.5 datadive
-pyenve local datadive
+pyenv local datadive
 pip install matplotlib pandas scikit-learn numpy scipy jupyter statsmodels
 pip freeze > requirements.txt
 ```
